@@ -13,6 +13,6 @@ console.log(accountId);
 console.table([accountId,accountEmail, accountPassword, accountCity, accountState]);
 
 /*
-Alwayes Prefer to use let instead of var
+ Prefer not use to  var
 Because of issue in block scope and functional scope
 */
